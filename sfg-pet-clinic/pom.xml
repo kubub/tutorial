@@ -46,4 +46,9 @@
 			</plugin>
 		</plugins>
 	</build>
+	
+	<scm>
+	<developerConnection>scm:git:git@github.com:kubub/tutorial.git</developerConnection>
+	</scm>
+	
 </project>
